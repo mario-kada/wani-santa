@@ -1,0 +1,38 @@
+{
+    "author": "pxpxpx82@gmail.com",
+    "dependencies": {
+        "enamel": "^1.0.0",
+        "pebble-clay": "^1.0.0"
+    },
+    "keywords": [],
+    "name": "wanisanta",
+    "pebble": {
+        "displayName": "wanisanta",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/WANISANTA",
+                    "name": "WANISANTA",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "16c2ab1f-cb73-48a8-b85c-6d0ce0060ce5",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
